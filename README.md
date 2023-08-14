@@ -20,7 +20,6 @@ At this moment, I am a Henry's graduate and after having participated in an inte
 - ✔ Version Control→ Git, GitHub 
 - ✔ Design →Figma. 
 
-☎️
-Email: gomezantoniojose1@gmail.com
+☎️ Email: gomezantoniojose1@gmail.com
 <br>
-Github: https://github.com/AGomezCuervo
+🙈 Github: https://github.com/AGomezCuervo
