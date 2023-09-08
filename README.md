@@ -23,4 +23,5 @@ At this moment, I am a Henry's graduate and after having participated in an inte
 ☎️ Email: gomezantoniojose1@gmail.com
 <br>
 🙈 Github: https://github.com/AGomezCuervo
+<br>
 📖 Portfolio: https://portfolio-antonio-gomez.vercel.app/
